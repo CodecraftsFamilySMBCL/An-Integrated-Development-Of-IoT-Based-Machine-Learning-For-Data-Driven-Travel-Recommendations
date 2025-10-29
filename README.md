@@ -1,9 +1,6 @@
 
 # An-Integrated-Development-Of-IoT-Based-Machine-Learning-For-Data-Driven-Travel-Recommendations
-An_Integrated_Development_Of_IoT_Based_Machine_Learning_For_Data-Driven_Travel_Recommendations.pdf 
-(Research paper IEEE)
-Demonstrate video -https://youtu.be/T1oRQPOZn7Q
-=======
+
 *Enviro predict Health Guard (An Integrated Development Of IoT Based Machine Learning For Data-Driven Travel Recommendations)*
 
 [An_Integrated_Development_Of_IoT_Based_Machine_Learning_For_Data-Driven_Travel_Recommendations.pdf](https://github.com/user-attachments/files/16178423/An_Integrated_Development_Of_IoT_Based_Machine_Learning_For_Data-Driven_Travel_Recommendations.pdf) (Research paper IEEE)
@@ -24,4 +21,5 @@ Demonstrate video -https://youtu.be/T1oRQPOZn7Q
 
 ![image](https://github.com/NakacwaOlivia/Enviro-Predict/assets/148626818/77b9ebb6-15fe-4d65-8ab8-91f3286fe918)
 >>>>>>> e64b8c6 (first commit)
+
 
