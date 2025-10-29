@@ -20,6 +20,5 @@ Demonstrate video -https://youtu.be/T1oRQPOZn7Q
 ![image](https://github.com/NakacwaOlivia/Enviro-Predict/assets/148626818/4cedd051-9a9b-4deb-bdf0-f639a935722a)
 
 ![image](https://github.com/NakacwaOlivia/Enviro-Predict/assets/148626818/77b9ebb6-15fe-4d65-8ab8-91f3286fe918)
->>>>>>> e64b8c6 (first commit)
 
 
